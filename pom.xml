@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>guru.springframework</groupId>
 	<artifactId>spring-jokesApp</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>spring-jokesApp</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -57,7 +57,7 @@
 	
 	<scm>
 		<developerConnection>scm:git:git@github.com:Santy288/spring-jokesApp.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>spring-jokesApp-0.0.2</tag>
   </scm>
 
 </project>
